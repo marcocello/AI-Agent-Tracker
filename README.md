@@ -34,6 +34,28 @@ For every initiative, we track:
 
 ---
 
+## Sales & Marketing
+| **Logo**       | **Name**      | **Description** | **Website**           | **Status** |
+|----------------|---------------|-----------------|-----------------------|------------|
+| ![Docket](https://via.placeholder.com/50) | Docket        | TBD             | TBD                   | Active     |
+| ![Jasper](https://via.placeholder.com/50) | Jasper        | TBD             | TBD                   | Active     |
+| ![regie.ai](https://via.placeholder.com/50) | regie.ai      | TBD             | TBD                   | Active     |
+| ![Oliv](https://via.placeholder.com/50) | Oliv          | TBD             | TBD                   | Active     |
+| ![Actively AI](https://via.placeholder.com/50) | Actively AI   | TBD             | TBD                   | Active     |
+| ![Sybull](https://via.placeholder.com/50) | Sybull        | TBD             | TBD                   | Active     |
+| ![Dalil](https://via.placeholder.com/50) | Dalil         | TBD             | TBD                   | Active     |
+| ![Attention](https://via.placeholder.com/50) | Attention     | TBD             | TBD                   | Active     |
+| ![11x](https://via.placeholder.com/50) | 11x           | TBD             | TBD                   | Active     |
+| ![AiSDR](https://via.placeholder.com/50) | AiSDR         | TBD             | TBD                   | Active     |
+| ![Twini](https://via.placeholder.com/50) | Twini         | TBD             | TBD                   | Active     |
+| ![AI4What](https://via.placeholder.com/50) | AI4What       | TBD             | TBD                   | Active     |
+| ![ability.ai](https://via.placeholder.com/50) | ability.ai    | TBD             | TBD                   | Active     |
+| ![Artisan](https://via.placeholder.com/50) | Artisan       | TBD             | TBD                   | Active     |
+
+![Sales & Marketing](https://via.placeholder.com/800x400.png?text=Sales+%26+Marketing+AI+Tools)
+
+---
+
 ## Example Entries
 
 ### Engineering
